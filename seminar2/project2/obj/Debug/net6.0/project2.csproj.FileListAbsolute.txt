@@ -1,0 +1,15 @@
+D:\GBLearning\CS Lesson\seminar2\project2\bin\Debug\net6.0\project2.exe
+D:\GBLearning\CS Lesson\seminar2\project2\bin\Debug\net6.0\project2.deps.json
+D:\GBLearning\CS Lesson\seminar2\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+D:\GBLearning\CS Lesson\seminar2\project2\bin\Debug\net6.0\project2.dll
+D:\GBLearning\CS Lesson\seminar2\project2\bin\Debug\net6.0\project2.pdb
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\project2.dll
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\refint\project2.dll
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\project2.pdb
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+D:\GBLearning\CS Lesson\seminar2\project2\obj\Debug\net6.0\ref\project2.dll

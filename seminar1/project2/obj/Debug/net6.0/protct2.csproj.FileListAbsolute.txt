@@ -1,0 +1,15 @@
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\protct2.csproj.AssemblyReference.cache
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\protct2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\protct2.AssemblyInfoInputs.cache
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\protct2.AssemblyInfo.cs
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\protct2.csproj.CoreCompileInputs.cache
+D:\GBLearning\CS Lesson\seminar1\protct2\bin\Debug\net6.0\protct2.exe
+D:\GBLearning\CS Lesson\seminar1\protct2\bin\Debug\net6.0\protct2.deps.json
+D:\GBLearning\CS Lesson\seminar1\protct2\bin\Debug\net6.0\protct2.runtimeconfig.json
+D:\GBLearning\CS Lesson\seminar1\protct2\bin\Debug\net6.0\protct2.dll
+D:\GBLearning\CS Lesson\seminar1\protct2\bin\Debug\net6.0\protct2.pdb
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\protct2.dll
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\refint\protct2.dll
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\protct2.pdb
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\protct2.genruntimeconfig.cache
+D:\GBLearning\CS Lesson\seminar1\protct2\obj\Debug\net6.0\ref\protct2.dll
