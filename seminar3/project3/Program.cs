@@ -4,7 +4,7 @@
 5 -> 1, 8, 27, 64, 125
 */
 
-voide ShowCube(int num)
+void ShowCube(int num)
 {
     for (int i = 0; i <= num; i++)
 {
