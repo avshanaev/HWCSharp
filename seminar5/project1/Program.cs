@@ -40,7 +40,7 @@ int GetCountEvenNumbers(int[] array, bool isEven = true)
     return count;
 }
 
-Console.Write("Введите длиннц массива: ");
+Console.Write("Введите длинну массива: ");
 int length = int.Parse(Console.ReadLine());
 
 Console.Write("Введите начало интервала: ");
