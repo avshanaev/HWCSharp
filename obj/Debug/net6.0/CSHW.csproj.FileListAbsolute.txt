@@ -1,0 +1,5 @@
+D:\GBLearning\CSHW\obj\Debug\net6.0\CSHW.csproj.AssemblyReference.cache
+D:\GBLearning\CSHW\obj\Debug\net6.0\CSHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBLearning\CSHW\obj\Debug\net6.0\CSHW.AssemblyInfoInputs.cache
+D:\GBLearning\CSHW\obj\Debug\net6.0\CSHW.AssemblyInfo.cs
+D:\GBLearning\CSHW\obj\Debug\net6.0\CSHW.csproj.CoreCompileInputs.cache

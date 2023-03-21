@@ -1,0 +1,15 @@
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+D:\GBLearning\CSHW\seminar8\project2\bin\Debug\net6.0\project2.exe
+D:\GBLearning\CSHW\seminar8\project2\bin\Debug\net6.0\project2.deps.json
+D:\GBLearning\CSHW\seminar8\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+D:\GBLearning\CSHW\seminar8\project2\bin\Debug\net6.0\project2.dll
+D:\GBLearning\CSHW\seminar8\project2\bin\Debug\net6.0\project2.pdb
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\project2.dll
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\refint\project2.dll
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\project2.pdb
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+D:\GBLearning\CSHW\seminar8\project2\obj\Debug\net6.0\ref\project2.dll
