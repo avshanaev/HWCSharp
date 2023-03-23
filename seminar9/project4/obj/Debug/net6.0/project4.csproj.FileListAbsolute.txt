@@ -1,0 +1,15 @@
+D:\GBLearning\CSHW\seminar9\project4\bin\Debug\net6.0\project4.exe
+D:\GBLearning\CSHW\seminar9\project4\bin\Debug\net6.0\project4.deps.json
+D:\GBLearning\CSHW\seminar9\project4\bin\Debug\net6.0\project4.runtimeconfig.json
+D:\GBLearning\CSHW\seminar9\project4\bin\Debug\net6.0\project4.dll
+D:\GBLearning\CSHW\seminar9\project4\bin\Debug\net6.0\project4.pdb
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\project4.csproj.AssemblyReference.cache
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\project4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\project4.AssemblyInfoInputs.cache
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\project4.AssemblyInfo.cs
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\project4.csproj.CoreCompileInputs.cache
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\project4.dll
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\refint\project4.dll
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\project4.pdb
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\project4.genruntimeconfig.cache
+D:\GBLearning\CSHW\seminar9\project4\obj\Debug\net6.0\ref\project4.dll
